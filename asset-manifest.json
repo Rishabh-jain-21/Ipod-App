@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ipod-App/static/css/main.4b91b0f2.chunk.css",
+    "main.js": "/Ipod-App/static/js/main.f9866d1a.chunk.js",
+    "main.js.map": "/Ipod-App/static/js/main.f9866d1a.chunk.js.map",
+    "runtime-main.js": "/Ipod-App/static/js/runtime-main.f56353db.js",
+    "runtime-main.js.map": "/Ipod-App/static/js/runtime-main.f56353db.js.map",
+    "static/js/2.7004e4a2.chunk.js": "/Ipod-App/static/js/2.7004e4a2.chunk.js",
+    "static/js/2.7004e4a2.chunk.js.map": "/Ipod-App/static/js/2.7004e4a2.chunk.js.map",
+    "static/js/3.cb127873.chunk.js": "/Ipod-App/static/js/3.cb127873.chunk.js",
+    "static/js/3.cb127873.chunk.js.map": "/Ipod-App/static/js/3.cb127873.chunk.js.map",
+    "index.html": "/Ipod-App/index.html",
+    "static/css/main.4b91b0f2.chunk.css.map": "/Ipod-App/static/css/main.4b91b0f2.chunk.css.map",
+    "static/js/2.7004e4a2.chunk.js.LICENSE.txt": "/Ipod-App/static/js/2.7004e4a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f56353db.js",
+    "static/js/2.7004e4a2.chunk.js",
+    "static/css/main.4b91b0f2.chunk.css",
+    "static/js/main.f9866d1a.chunk.js"
+  ]
+}
